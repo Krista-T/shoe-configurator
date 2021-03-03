@@ -1,0 +1,27 @@
+.interact,
+.color_btn {
+  cursor: pointer;
+}
+
+.color_btn {
+  stroke-width: 0.2px;
+}
+.color_btn:hover {
+  cursor: pointer;
+  transform: scaleY(1.2);
+  -webkit-transform: scaleY(1.2);
+  -moz-transform: scaleY(1.2);
+  -ms-transform: scaleY(1.2);
+  -o-transform: scaleY(1.2);
+}
+
+/* add style!! */
+#picker {
+  font-size: 4rem;
+  margin-left: calc(50% - 250px);
+  margin-top: -120px;
+}
+
+.IroColorPicker {
+  margin-left: 1%;
+}
