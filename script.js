@@ -22,7 +22,7 @@ function colorElement() {
   //this is what will be handled
   elementToPaint = this;
   // console.log(elementToPaint);
-  this.style.fill = "";
+  this.style.fill = "lightgrey";
 }
 
 function selectArea() {
